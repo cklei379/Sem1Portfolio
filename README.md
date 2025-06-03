@@ -1,5 +1,5 @@
 # Sem1+2Portfolio
-Consists of python projects done in semester 1
+Consists of python projects done in semester 1 and 2
 
 Rock Paper Scissors:
 This project inputs a players choice and plays it against the computer. It keeps track of the player and computer's score and the player has a choice in how many rounds they can play. This code uses the random library to generate random plays for the computer. 
