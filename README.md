@@ -1,4 +1,4 @@
-# Sem1Portfolio
+# Sem1+2Portfolio
 Consists of python projects done in semester 1
 
 Rock Paper Scissors:
